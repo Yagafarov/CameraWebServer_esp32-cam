@@ -7,10 +7,10 @@
 // ============================================================
 //  SOZLAMALAR
 // ============================================================
-#define WIFI_SSID           "Go Find Your Own"
-#define WIFI_PASSWORD       "notforyou"
-#define BOT_TOKEN           "8755718574:AAHAt2gn6Mn0JpMIdSMH445NBGYeuTDCCsE"
-#define CHAT_ID             "7415456913"
+#define WIFI_SSID           "WIFI SSID"
+#define WIFI_PASSWORD       "WIFI PASS"
+#define BOT_TOKEN           "BOT_TOKEN"
+#define CHAT_ID             "USER_ID"
 
 #define BOT_POLL_MS         1500
 #define WIFI_TIMEOUT_MS     15000
